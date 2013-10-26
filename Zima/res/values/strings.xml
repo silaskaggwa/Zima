@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ZimaActivity!</string>
+    <string name="app_name">Zima</string>
+    <string name="title_activity_display_message">Visits</string>
+    <string name="main_menu_text_color">#FFFFFF</string>
+    <string name="customize">Customize</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="undo">Undo</string>
+    
+
+</resources>
